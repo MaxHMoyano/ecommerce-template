@@ -7,7 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      // backgroundImage: {
+      //   hero: "url('/hero-bg.svg')",
+      // },
     },
   },
   plugins: [],
-}
+};
